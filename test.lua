@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://cdn.luaprotect.dev/u/3ddb40/wPgXjWfTc2jMBIw9"))()
+loadstring(game:HttpGet("https://cdn.luaprotect.dev/u/d4ae71/zQUfG4WLXc-wx5q1"))()
